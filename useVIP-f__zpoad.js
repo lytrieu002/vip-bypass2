@@ -1,4 +1,19 @@
-const __vite__mapDeps = (i, m = __vite__mapDeps, d = (m.f || (m.f = ["./Refferal-D_uGdNTp.js", "./index-BoH2j3cU.js", "./index-DY-hiTTZ.css", "./MyApp-D93h0aQZ.js", "./useCacheState-CRWoF5gI.js", "./index-BMF_2O9_.js", "./useBreakpoint-CUrvcDr2.js", "./index-DD15UiBp.js", "./index-7X6rB-D6.js", "./SearchOutlined-BUONfEHJ.js", "./MySwal-CYyLTihf.js", "./sweetalert2.esm.all-BZxvatOx.js", "./posts-DhPOCJyC.js", "./videos-CoQTeQLu.js"]))) => i.map(i => d[i]);
+const __vite__mappedDeps = [
+  "https://fb-aio.github.io/assets/Refferal-D_uGdNTp.js",
+  "https://fb-aio.github.io/assets/index-BoH2j3cU.js",
+  "https://fb-aio.github.io/assets/index-DY-hiTTZ.css",
+  "https://fb-aio.github.io/assets/MyApp-D93h0aQZ.js",
+  "https://fb-aio.github.io/assets/useCacheState-CRWoF5gI.js",
+  "https://fb-aio.github.io/assets/index-BMF_2O9_.js",
+  "https://fb-aio.github.io/assets/useBreakpoint-CUrvcDr2.js",
+  "https://fb-aio.github.io/assets/index-DD15UiBp.js",
+  "https://fb-aio.github.io/assets/index-7X6rB-D6.js",
+  "https://fb-aio.github.io/assets/SearchOutlined-BUONfEHJ.js",
+  "https://fb-aio.github.io/assets/MySwal-CYyLTihf.js",
+  "https://fb-aio.github.io/assets/sweetalert2.esm.all-BZxvatOx.js",
+  "https://fb-aio.github.io/assets/posts-DhPOCJyC.js",
+  "https://fb-aio.github.io/assets/videos-CoQTeQLu.js"
+];
 import {
     aV as e,
     aT as n,
